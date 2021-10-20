@@ -1,3 +1,1 @@
-1 Turno del jugador
-9 Score Jugado 1 - Karla
-6 Score Jugado 2 - Marco
+1 0 0
